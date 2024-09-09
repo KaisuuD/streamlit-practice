@@ -11,7 +11,10 @@ pip install streamlit
 ```
 streamlit run app.py
 ```
-### Streamlit 是一个开源的 Python 库，用于快速创建和分享数据应用。它允许你通过简单的 Python 脚本快速构建数据可视化和机器学习模型的可视化界面。Streamlit 的语法非常直观，基于 Python，但也有一些特定的函数和组件用于构建用户界面。下面是一些 Streamlit 最常用的语法和组件：
+### import
+```
+import streamlit as st
+```
 
 ## 1. 显示文本
 ```
